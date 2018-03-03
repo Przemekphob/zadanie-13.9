@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #2980b9;
+}
+#formstart {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: #FFF;
+}
+
+#formstart input {
+	border: none;
+	padding: 10px;
+	color: #9b59b6;
+}
